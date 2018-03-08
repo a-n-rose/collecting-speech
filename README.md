@@ -20,3 +20,5 @@ wget -r -A.tgz http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/
 
 ### Collecting multiple other languages from Voxforge..
 
+### App Collection Ideas:
+* Develop Captcha to record people saying certain texts
