@@ -12,11 +12,13 @@ wget -r -A.tgz http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/
 * downloaded
 
 wget -r -A.tgz http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/Audio/Original/16kHz_16bit/s
-* I am currently waiting for this to finish downloading before I continue on to the next one
+* downloaded
 
 wget -r -A.tgz http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/Audio/Original/32kHz_16bit/s
+* downloaded
 
 wget -r -A.tgz http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/Audio/Original/44.1kHz_16bit/s
+* downloaded
 
 
 ### Collecting German audio from Voxforge..
