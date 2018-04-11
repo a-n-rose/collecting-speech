@@ -25,3 +25,6 @@ wget -r -A.tgz http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/
 
 ### App Collection Ideas:
 * Develop Captcha to record people saying certain texts
+
+### SLI and Healthy Child Speech:
+*  https://figshare.com/articles/New_draft_item/2360626
